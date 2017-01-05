@@ -1,5 +1,8 @@
 <?php
 
-public function direQuiEstGros() {
-  echo 'Qui est gros ?';
+public function dire($parole) {
+  echo $parole;
 }
+
+dire('Qui est gros ?');
+dire('Bonjour Asterix');
