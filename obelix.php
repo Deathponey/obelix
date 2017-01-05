@@ -1,1 +1,5 @@
-<?php echo 'Qui est gros ?';
+<?php
+
+public function direQuiEstGros() {
+  echo 'Qui est gros ?';
+}
